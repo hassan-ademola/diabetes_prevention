@@ -8,7 +8,7 @@ st.subheader("This is a diagnostic tool that predicts a patient's risk of diabet
 
 columns = st.columns(2)
 with columns[0]:
-    age=st.slider('How old are you?',0,100,16)
+    age=st.slider('How old are you?',0,90,16)
 with columns[1]:
     gender=st.selectbox('Gender', ['Female','Male'])
 
