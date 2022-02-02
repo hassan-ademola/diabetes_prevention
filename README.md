@@ -25,7 +25,7 @@ This data was collected from Sylhet Diabetes Hospital of Sylhet, Bangladesh. Dir
 The categories were binary encoded (0 and 1) 
 
 ## Model Training and Evaluation
-A model that detects as many diabetic cases as possible should be of interest to us. As a result, recall was employed to select the preferred model.
+A model that detects as many diabetic cases as possible should be of interest to us. As a result, recall was employed to select the preferred model.  
 Linear and Tree-based models were trained on the preprocessed data. The ensemble models produced encouraging results, with **ExtraTreesRegressor** correctly classifying **98.75 percent** of the diabetic cases
 
 ## Conclusion
