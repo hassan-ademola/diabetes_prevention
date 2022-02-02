@@ -12,7 +12,9 @@ Diabetes detection at an early stage can lower the risk of a person developing d
 This project aims to predict the chance of a patient having diabetes based on a certain set of symptoms.
 
 ## About the Data
-This data was collected from Sylhet Diabetes Hospital of Sylhet, Bangladesh. Direct questionnaires were distributed to patients who have just become diabetic or who are still non-diabetic but have a few or more symptoms.
+This data was collected from Sylhet Diabetes Hospital of Sylhet, Bangladesh. Direct questionnaires were distributed to patients who have just become diabetic or who are still non-diabetic but have a few or more symptoms.   
+(Islam et al, 2020)  
+
 - The dataset contains 520 records and 17 columns including the target variable
 - There are no missing values in the dataset
 - **Age** is the only numerical column in the data
@@ -36,4 +38,10 @@ Linear and Tree-based models were trained on the preprocessed data. The ensemble
 The chosen model was used to build a tool that predicts the risk level (in percentage) of diabetes in a person
 <p align='center'><img src='media/streamlit-app.gif' alt='streamlit-app'/></p>
 <p><a href='https://share.streamlit.io/hassan-ademola/diabetes_prevention/main/app.py'><b>Click Here</b></a> to run the prediction tool</p>
+
+## References
+- Islam, MM Faniqul, et al. 'Likelihood Prediction of Diabetes at Early Stage Using Data Mining Techniques.' Computer Vision and Machine Intelligence in Medical Image Analysis. Springer, Singapore, 2020. 113-125.  
+
+- WHO (World Health Organization), Diabetes[online]. Available at: https://www.who.int/health-topics/diabetes [Accessed 2nd February 2022].
+
 
