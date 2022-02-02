@@ -28,7 +28,7 @@ A model that detects as many diabetic cases as possible should be of interest to
 Linear and Tree-based models were trained on the preprocessed data. The ensemble models produced encouraging results, with **ExtraTreesRegressor** correctly classifying **98.75 percent** of the diabetic cases
 
 ## Conclusion
-**Polyuria (excessive peeing), Polydipsia (extreme thirst), and gender** were the most important early indicators of diabetes.
+**Polyuria (excessive peeing), Polydipsia (extreme thirst), and gender** are the most important early indicators of diabetes.
 <p align='center'><img src='media/feature_importance.png' alt='feature_importance'/></p>
 
 ## Prediction Tool
