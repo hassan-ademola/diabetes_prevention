@@ -34,7 +34,6 @@ Linear and Tree-based models were trained on the preprocessed data. The ensemble
 
 ## Prediction Tool
 The chosen model was used to build a tool that predicts the risk level (in percentage) of diabetes in a person
-<p align='center'><img src='media/s1.png' alt='select'/></p>
-<p align='center'><img src='media/s2.png' alt='predict'/></p>
+<p align='center'><img src='media/streamlit-app.gif' alt='streamlit-app'/></p>
 <p><a href='https://share.streamlit.io/hassan-ademola/diabetes_prevention/main/app.py'><b>Click Here</b></a> to run the prediction tool</p>
 
