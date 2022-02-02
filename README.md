@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/hassan-ademola/diabetes_prevention/main/app.py)
 # Diabetes Risk Prediction
 <p align='center'><img src='media/diabetes_cover.jpg' alt='diabetes_cover'/></p>
 Diabetes is a chronic metabolic condition characterized by high levels of blood sugar, which causes long-term damage to the heart, blood vessels, eyes, kidneys, 
