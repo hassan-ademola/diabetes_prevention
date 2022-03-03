@@ -4,7 +4,7 @@ import pickle
 import time
 
 st.title('Diabnotics')
-st.subheader("This is a diagnostic tool that predicts a patient's risk of diabetes")
+st.subheader("This diagnostic tool predicts a patient's risk of diabetes")
 
 columns = st.columns(2)
 with columns[0]:
