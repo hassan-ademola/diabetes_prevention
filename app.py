@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import time
 
-st.title('Diabnotics')
+st.title('Diabnostics')
 st.subheader("This diagnostic tool predicts a patient's risk of diabetes")
 
 columns = st.columns(2)
